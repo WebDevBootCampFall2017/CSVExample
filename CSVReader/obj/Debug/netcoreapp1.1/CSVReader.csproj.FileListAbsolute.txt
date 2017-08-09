@@ -1,0 +1,9 @@
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\bin\Debug\netcoreapp1.1\CSVReader.deps.json
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\bin\Debug\netcoreapp1.1\CSVReader.runtimeconfig.json
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\bin\Debug\netcoreapp1.1\CSVReader.runtimeconfig.dev.json
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\bin\Debug\netcoreapp1.1\CSVReader.dll
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\bin\Debug\netcoreapp1.1\CSVReader.pdb
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\obj\Debug\netcoreapp1.1\CSVReader.csprojResolveAssemblyReference.cache
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\obj\Debug\netcoreapp1.1\CSVReader.AssemblyInfo.cs
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\obj\Debug\netcoreapp1.1\CSVReader.dll
+c:\users\labuser\documents\visual studio 2017\Projects\CSVReader\CSVReader\obj\Debug\netcoreapp1.1\CSVReader.pdb
